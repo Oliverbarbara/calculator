@@ -1,2 +1,2 @@
-# calculadora
-Calculadora em javascript 
+#. CALCULATOR
+CALCULATOR, HTML, CSS Javascript 
